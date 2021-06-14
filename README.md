@@ -1,4 +1,4 @@
-# dermanostix
+# README.md
 DERMANOSTIX
 
 This is an AI tool to identify and classify skin lesions.
